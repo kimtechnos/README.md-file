@@ -50,6 +50,9 @@ For  our main entry code
 </html>
 ```
 Running the program we get the following output 
+
 ![sample image shawing the output of the file ](./assets/image.png)
+
+
 That's how you can create a nicely READ.md file for Github you can find the link to this project here:
 **github** [github link]()
