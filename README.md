@@ -1,4 +1,4 @@
-# 1. How to create modules in in python :smile:
+# 1. How to create modules in in HTML/python :smile:
 Hello , in this lesson we will lern more how to use markdown to create a engaging readme.
 # 2. what will we learn in this lesson:cd:
 
